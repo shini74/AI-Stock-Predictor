@@ -20,7 +20,7 @@ An end-to-end Machine Learning web application that predicts stock prices, analy
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/AI-Stock-Predictor.git](https://github.com/YOUR_USERNAME/AI-Stock-Predictor.git)
+   git clone [https://github.com/shini74/AI-Stock-Predictor.git](https://github.com/shini74/AI-Stock-Predictor.git)
 
 2. Install dependencies:
    ```bash
